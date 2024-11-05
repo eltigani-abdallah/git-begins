@@ -6,3 +6,4 @@ git commit -m "[message pour les collegues]"
 
 git push
 
+git pull [chemin de fichier depuis l'URL]
